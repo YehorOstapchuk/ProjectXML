@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Teachers>
+  <Teacher Name="Petya" Faculty="Cubik" Department ="MMM" Position =" Nachalnik" Pension ="15000" Experiense ="100"></Teacher>
+  <Teacher Name="Vasya" Faculty="Cubik" Department ="MMM" Position =" Nachalnik" Pension ="15000" Experiense ="100"></Teacher>
+  <Teacher Name="Galya" Faculty="Cubik" Department ="MMM" Position =" Nachalnik" Pension ="15000" Experiense ="100"></Teacher>
+</Teachers>

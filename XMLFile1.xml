@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Teachers>
+  <Teacher Name="Shkilniak S.S." Faculty="Cubik" Department ="TTP" Position ="Professor" Pension ="15000" Experiense ="36"></Teacher>
+  <Teacher Name="Molodtsov O.I." Faculty="Cubik" Department ="MO" Position ="Docent" Pension ="12000" Experiense ="29"></Teacher>
+  <Teacher Name="Matsak I.K." Faculty="Mehmat" Department ="DO" Position ="Professor" Pension ="8000" Experiense ="22"></Teacher>
+  <Teacher Name="Kondratiuk S.S." Faculty="FREKS" Department ="TK" Position ="Assistent" Pension ="0" Experiense ="3"></Teacher>
+  <Teacher Name="Shevchuk U.M." Faculty="FREKS" Department ="TK" Position ="Assistent" Pension ="100" Experiense ="2"></Teacher>
+  <Teacher Name="Rubliov B.V." Faculty="FREKS" Department ="MO" Position ="Professor" Pension ="5000" Experiense ="20"></Teacher>
+  <Teacher Name="Timashov O.O." Faculty="Cubik" Department ="SMPR" Position ="Docent" Pension ="20000" Experiense ="45"></Teacher>
+  <Teacher Name="Shevchenko V.P. (VPSH)" Faculty="Cubik" Department ="IPZ" Position ="Big big BOSS" Pension ="100000" Experiense ="30"></Teacher>
+<Teacher Name="AAAA" Faculty="FREKS" Department ="TK" Position =" Assistent" Pension ="0" Experiense ="3"></Teacher>
+</Teachers>
